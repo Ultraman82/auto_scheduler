@@ -4,5 +4,5 @@ postgres.ini
 *.csv
 *.json
 *.pyc
-*.ipynb
+# *.ipynb
 __pycache__/
