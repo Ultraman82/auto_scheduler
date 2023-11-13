@@ -1,0 +1,7 @@
+Multiple composite hostids (CIDs) indicate you have multiple network adapters.
+You should select the first CID or the most appropriate CID based on the network
+adapter which is currently active. The Siemens PLM Software licensing CIDs
+for this host "CAD21G01" are:
+
+COMPOSITE=DB7706B71B00 - Intel(R) Ethernet Connection (5) I219-LM
+                         (MAC : B04F1300EFFE)

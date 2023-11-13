@@ -1,0 +1,8 @@
+ignition.ini
+postgres.ini
+*.parquet
+*.csv
+*.json
+*.pyc
+*.ipynb
+__pycache__/

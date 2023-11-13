@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+    container_name: python-server
+    command: python main.py
+    ports:
+      - 80:30000      
+    volumes:
+      - .:/code
